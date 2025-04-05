@@ -36,9 +36,9 @@ This Python script `DataProcessing.py` replicates the functionality of the `OUTP
    - Bar chart of state populations, annotated for smallest and largest.  
 
 ## Visualizations
-- **Correlation Matrix**: Shows relationships among population, income, sale price, and affordability.  
-- **Income vs. Sale Price Scatter**: Identifies the states with highest sale price and lowest income.  
-- **Population Bar Chart**: Ranks states by population with annotations for top and bottom.  
+- **`Correlation Matrix Figure.png`**: Shows relationships among population, income, sale price, and affordability.  
+- **`Median Household Income vs. Median Sale Price.png`**: Identifies the states with highest sale price and lowest income.  
+- **`Population by State.png`**: Ranks states by population with annotations for top and bottom.  
 
 ## Requirements
 - Python 3.x  
